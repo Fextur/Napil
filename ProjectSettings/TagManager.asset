@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Everything
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BTS
+    uniqueID: 3857104413
+    locked: 0
+  - name: Background
+    uniqueID: 3414472607
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ball
+    uniqueID: 3243569065
+    locked: 0
+  - name: Enemies
+    uniqueID: 1440584285
+    locked: 0
+  - name: Elephant
+    uniqueID: 3909413299
+    locked: 0
+  - name: Text
+    uniqueID: 1084760397
+    locked: 0
